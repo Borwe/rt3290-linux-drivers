@@ -1,0 +1,12 @@
+ Install:
+ --------
+ 1. Extract rt3290sta-2.6.0.0 directory into /usr/src
+ 2. Run
+	sudo dkms install -m rt3290sta -v 2.6.0.0 --force
+ 3. Reboot
+
+ Remove:
+ --------
+ 1. Run
+	sudo dkms remove rt3290sta/2.6.0.0 --all
+ 2. Reboot
