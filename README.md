@@ -1,6 +1,6 @@
 ## <u>The RT3290 WI-FI drivers for linux</u>
 
-Tested on Linux Mint 19.1 running on Kernel 4.15.x, it compiles and improves performance of wi-fi signal greatly on this card.
+Tested on Ubuntu 18.04.2 LTS running on Kernel 5.0.x, it compiles and improves performance of wi-fi signal greatly on this card.
 
 I made this version seeing that almost nobody cared about this card, not even the original vendor Ralink which turned to Mediatek, who just care about the Windows version, and the version that comes with linux kernel out of the box has weak wifi strength as it's more generic and using the drivers of rt2800pci.
 
